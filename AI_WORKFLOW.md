@@ -2,9 +2,10 @@
 
 ## Tools Used
 
-- **Cursor** (AI coding assistant in the project workspace)
+- **Cursor** — implementation, code generation, debugging, refactoring, testing, and repository-level work.
+- **ChatGPT** — assignment decomposition, scope planning, architecture review, prompt design, tradeoff analysis, and final submission review.
 
-ChatGPT was not used for this assignment. Work stayed in Cursor: planning the phased implementation, writing code, reviewing diffs, running commands, and drafting documentation.
+AI was used as a pair-programming and reasoning aid. Final scope, architecture, implementation decisions, verification, and submission decisions remained human-controlled.
 
 ## Where AI Accelerated Work
 
@@ -19,7 +20,7 @@ ChatGPT was not used for this assignment. Work stayed in Cursor: planning the ph
 - Documentation drafting (this folder)
 - Debugging TypeScript / ESLint / build failures as they appeared
 
-AI was used as a pair-programming tool, not as an unsupervised generator.
+AI was used as a pair-programming and reasoning aid, not as an unsupervised generator.
 
 ## Human Decisions
 

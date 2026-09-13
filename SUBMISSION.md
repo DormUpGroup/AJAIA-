@@ -4,11 +4,17 @@ Candidate: Michael Bilak
 
 ## Links
 
-Live Product: [https://ajaiadocs-roan.vercel.app/](https://ajaiadocs-roan.vercel.app/)
+Live Product:  
+https://ajaiadocs-roan.vercel.app/
 
-Walkthrough Video: [ADD LOOM URL]
+Source Repository:  
+https://github.com/DormUpGroup/AJAIA-
 
-Source: Included in Google Drive submission folder
+Walkthrough Video:  
+[ADD LOOM URL]
+
+Google Drive Submission:  
+[ADD GOOGLE DRIVE URL]
 
 ## Demo Users
 
