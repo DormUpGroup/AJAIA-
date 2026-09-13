@@ -97,7 +97,7 @@ Other types (for example `.pdf`) and files over 1 MB are **intentionally rejecte
 
 ## Deployment
 
-Live URL: [ADD VERCEL URL]
+Live URL: [https://ajaiadocs-roan.vercel.app/](https://ajaiadocs-roan.vercel.app/)
 
 ## Known Limitations
 

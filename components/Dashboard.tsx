@@ -38,7 +38,7 @@ export function Dashboard() {
         <div className="min-w-0">
           <h1 className="text-3xl font-semibold tracking-tight text-zinc-900">Documents</h1>
           <p className="mt-1.5 max-w-xl text-sm leading-6 text-zinc-600">
-            Create a document, then open it from Owned by me or Shared with me.
+            Create, edit, and share documents with your team.
           </p>
         </div>
         <div className="flex shrink-0 flex-col items-stretch gap-2 sm:items-end">
@@ -136,7 +136,7 @@ function DashboardLists({ userId }: { userId: string }) {
       />
       <DocumentList
         title="Shared with me"
-        emptyMessage="Nothing shared with you yet. Share a document, then switch the demo user."
+        emptyMessage="Nothing shared with you yet. Share a document, then switch the demo user to test collaboration."
         documents={shared}
         badge="Shared"
       />
@@ -150,13 +150,13 @@ function DashboardSkeleton() {
       <div className="space-y-3">
         <div className="h-6 w-36 animate-pulse rounded bg-zinc-200/80" />
         <div className="grid gap-3 sm:grid-cols-2">
-          <div className="h-28 animate-pulse rounded-xl bg-zinc-200/70" />
-          <div className="h-28 animate-pulse rounded-xl bg-zinc-200/70" />
+          <div className="h-24 animate-pulse rounded-xl bg-zinc-200/70" />
+          <div className="h-24 animate-pulse rounded-xl bg-zinc-200/70" />
         </div>
       </div>
       <div className="space-y-3">
         <div className="h-6 w-40 animate-pulse rounded bg-zinc-200/80" />
-        <div className="h-28 animate-pulse rounded-xl bg-zinc-200/70" />
+        <div className="h-24 animate-pulse rounded-xl bg-zinc-200/70" />
       </div>
     </div>
   );
